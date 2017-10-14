@@ -1,4 +1,4 @@
-# Mini-project # 6 - Blackjack
+
 
 # Step 1: import modules
 import simplegui
